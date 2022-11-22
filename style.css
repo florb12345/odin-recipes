@@ -1,0 +1,16 @@
+body {
+    background-color: powderblue;
+  }
+  h1 {
+    color: rgb(49, 49, 145);
+  }
+  h2 {
+    color: brown;
+  }
+
+  p {
+    color: black;
+  }
+  a {
+    color: rgb(31, 96, 37);
+  }
